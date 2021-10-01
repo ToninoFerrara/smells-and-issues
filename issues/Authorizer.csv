@@ -50,7 +50,7 @@ tejado/Authorizer,closed,App FC when accessing  saved file,"[Label(name=""bug"")
 Android 7.1 Samsung Galaxy J5"
 tejado/Authorizer,open,feature request: pass integration,"[Label(name=""enhancement"")]","Hi, finally authorizer is on f droid :) 
 
-It would be nice to have pass integration since this is a ""standart"" format for password storing (with gpg encryptation) and that works with git 
+It would be nice to have pass integration since this is a ""standard"" format for password storing (with gpg encryptation) and that works with git 
 
 Here is pass website for reference : https://www.passwordstore.org/
 
